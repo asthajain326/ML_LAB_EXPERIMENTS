@@ -302,42 +302,6 @@ Through these laboratory experiments, I gained practical experience in:
 
 ---
 
-# Repository Structure
-
-```text
-Machine-Learning-Lab-Experiments/
-
-│
-
-├── README.md
-
-├── Experiment-1-Data-Visualization.ipynb
-
-├── Experiment-2-Data-Preprocessing.ipynb
-
-├── Experiment-3-Linear-Regression.ipynb
-
-├── Experiment-4-Multiple-Linear-Regression.ipynb
-
-├── Experiment-5-Logistic-Regression.ipynb
-
-├── Experiment-6-Naive-Bayes.ipynb
-
-├── Datasets/
-
-│ ├── advertising.csv
-
-│ ├── Employee.csv
-
-│ ├── spam.csv
-
-│ └── data.csv
-
-└── Images/
-
-```
-
----
 
 # Future Improvements
 
